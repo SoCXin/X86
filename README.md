@@ -8,12 +8,15 @@ X86（X86 architecture）架构，x86是一个intel通用计算机系列的标�
 
 x86采用CISC（Complex Instruction Set Computer）架构，与采用RISC不同的是CISC处理器程序的各条指令是按顺序串行执行的，每条指令中的各个操作也是按顺序串行执行的。顺序执行的优点是控制简单，但计算机各部分的利用率不高，执行速度慢。
 
+X86结构的电脑采用“桥”与扩展设备进行连接，所以x86结构的电脑能很容易进行性能扩展，软硬件资源标准化，上游供应商阶级固化，所以X86是标准化通用化的平台。
+
 ### [相关资源](https://github.com/sochub/X86) 
 
 * [Intel](https://github.com/sochub/intel)
 
 * [AMD](https://github.com/sochub/AMD)
 
+* [VIA](https://github.com/sochub/VIA)
 
 #### [更多架构](https://github.com/sochub)
 
