@@ -1,10 +1,10 @@
 ﻿# [X86 架构](https://github.com/sochub/X86)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](SoC/SoC.png)](http://www.qitas.cn)
 
-### [X86描述](https://github.com/sochub/X86/wiki) 
+### [X86架构描述](https://github.com/sochub/X86/wiki) 
 
-X86（X86 architecture）架构，x86是一个intel通用计算机系列的标准编号缩写,也标识一套通用的计算机指令集合，是芯片巨头Intel设计制造的一种微处理器体系结构的统称，推出已有40多年历史，我们如今所用PC大部分都是基于X86架构的处理器。
+X86（X86 architecture）架构，是芯片巨头Intel设计制造的一种微处理器体系结构的统称，推出已有40多年历史，我们如今所用PC大部分都是基于X86架构的处理器。
 
 x86采用CISC（Complex Instruction Set Computer）架构，与采用RISC不同的是CISC处理器程序的各条指令是按顺序串行执行的，每条指令中的各个操作也是按顺序串行执行的。顺序执行的优点是控制简单，但计算机各部分的利用率不高，执行速度慢。
 
@@ -14,18 +14,10 @@ CISC架构确实限制了CPU的发展。在CISC微处理器程序的各条指令
 
 　　复杂指令集是一种伴随着计算机诞生便存在的一种指令集。其拥有较强的处理高级语言的能力，对于提高计算机性能有一定好处。而日趋复杂的指令系统不仅带来的效率的低下，还致使系统结构的复杂性增加，这种复杂性也将导致了CISC的通用性不佳。
 
-### [相关资源](https://github.com/sochub/X86) 
+### [相关vendor](https://github.com/sochub)
 
 * [Intel](https://github.com/sochub/intel)
-
 * [AMD](https://github.com/sochub/AMD)
-
 * [VIA](https://github.com/sochub/VIA)
-
-#### [更多架构](https://github.com/sochub)
-
-* [8051](https://github.com/sochub/8051)
-* [ARM](https://github.com/sochub/ARM)
-* [MIPS](https://github.com/sochub/MIPS)
 
 ###  [SoC资源平台](https://github.com/sochub)
